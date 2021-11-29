@@ -1,0 +1,13 @@
+{
+  "name": "graphql01",
+  "version": "1.0.0",
+  "description": "graphQL practice #01",
+  "main": "index.js",
+  "repository": "https://github.com/hayun-chung/graphql01",
+  "author": "Hayun of Hinter ",
+  "license": "Hinter",
+  "dependencies": {
+    "code": "^5.2.4",
+    "graphql-yoga": "^1.18.3"
+  }
+}
